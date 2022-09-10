@@ -1,0 +1,49 @@
+body {
+    background-color: #CCCBCA;
+
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 60%
+}
+
+h1 {
+    color: skyblue;
+    font-size: 50;
+    
+
+}
+
+.a{
+    background-color: Red;
+    width: 50;
+    height: 50;
+    padding: 25;
+    padding-top: 50;
+    padding-left: 50;
+    border: solid 10px;
+}
+
+.b{
+    background-color: blue;
+    width: 50;
+    height: 50;
+    padding: 25;
+    padding-top: 50;
+    padding-left: 50;
+    border: solid 10px;
+    margin-left: 145;
+}
+.c{
+    background-color: green;
+    width: 50;
+    height: 50;
+    padding: 25;
+    padding-top: 50;
+    padding-left: 50;
+    border: solid 10px;
+    margin-left: 290;
+}
+
